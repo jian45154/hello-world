@@ -10,7 +10,7 @@ mkdir new_dir--> make directory named 'new_dir'
 
 touch new.txt--> make file named 'new.txt'
 
-
+\n\n
 
 cp --> copy file
 
