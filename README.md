@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="hello-world: Ian's first step into programming">
+</p>
+
 # hello-world
 my first repository
 

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">hello-world</title>
+  <desc id="desc">Ian's first step into programming</desc>
+  <rect width="1200" height="380" rx="28" fill="#FFF8E7"/>
+  <path d="M64 62h118" stroke="#D97706" stroke-width="7" stroke-linecap="round"/>
+  <text x="64" y="104" fill="#D97706" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="18" font-weight="700" letter-spacing="2">FIRST REPOSITORY · 2019</text>
+  <text x="64" y="181" fill="#27231C" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="54" font-weight="760">hello-world</text>
+  <text fill="#27231C" opacity=".82" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="24" font-weight="500"><tspan x="64" y="231">Ian's first step into programming</tspan></text>
+  <text x="64" y="304" fill="#27231C" opacity=".58" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18">A small personal milestone preserved as it began</text>
+  <path d="M820 126h220v118q0 58-58 58H878q-58 0-58-58z" fill="#D97706"/><path d="M1040 154h34q54 0 54 46t-54 46h-34" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#5B8C5A" stroke-width="16"/><path d="M874 94c-18-34 22-46 4-74M948 94c-18-34 22-46 4-74" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#27231C" opacity=".32" stroke-width="7"/>
+</svg>
